@@ -63,7 +63,6 @@ and in my report. The final accuracy on the test set ranged from 81.2%
 - `notebook.ipynb` — all my code: loading data, training models, testing
   them, and looking at errors
 - `requirements.txt` — the exact package versions I used
-- `notes.md` — my working notes as I went along
 - `data/confusion_matrices.png` — a picture showing what each model got
   right and wrong
 - `README.md` — this file
